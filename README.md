@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 ## Automated Nano-porosity Segmentation in TEM Images
 
 I'm involved in the the project focuses on automating the identification and pixel-wise segmentation of nano-porosities in Transmission Electron Microscopy (TEM) images, specifically for  analyzing cladding materials used in nuclear reactors. It addresses the critical challenge of accurately characterizing these nanoscale features to understand material integrity and performance. The pipeline leverages from classical ML models, deep learning (CNN) models such as Unet to Vision Transformer (ViT), for high-accuracy feature detection and its correlations.
+
+My portfolio: https://sites.google.com/view/deepak7285/home
