@@ -1,21 +1,10 @@
-## Hi there 👋
+### Hi there 👋
 
-<!--
-**Deep7285/Deep7285** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My Name is Deepak Kumar, and I'm a research graduate from the Indian Institute of Technology Madras (India). I am interested in materials science, machine learning, and computer vision research.  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on ML/DL model development for extreme events forecast using spatio-temporal data and its statistical analysis.
+- 🌱 I’m currently learning algorithm development using reverse data-driven techniques, handling the high̄-dimentional dataset for ML/DL model training.
+- 👯 I’m looking to collaborate on materials science research using machine learning and deep learning specially property predictions and material synthesis.
+- ✅ Some of my recent works are [Porodet](https://github.com/Deep7285/PoroDet), an open-source computer vision Python package and [human response matching app](https://github.com/Deep7285/human_response_matcing_app) available on [Streamlit](https://hrmiitmaa.streamlit.app/#upload-data-files)     
+- 📫 How to reach me: you can check out my portfolio [here]( https://sites.google.com/view/deepak7285/home).
 -->
-## Automated Nano-porosity Segmentation in TEM Images
-
-I'm involved in the the project focuses on automating the identification and pixel-wise segmentation of nano-porosities in Transmission Electron Microscopy (TEM) images, specifically for  analyzing cladding materials used in nuclear reactors. It addresses the critical challenge of accurately characterizing these nanoscale features to understand material integrity and performance. The pipeline leverages from classical ML models, deep learning (CNN) models such as Unet to Vision Transformer (ViT), for high-accuracy feature detection and its correlations.
-
-My portfolio: https://sites.google.com/view/deepak7285/home
